@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Space+Mono:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    padding: 0;
+    margin: 0;
+  }
+  p {
+    font-family: "Space Mono", "monospace";
+  }
+}
+@layer components {
+  .container {
+    @apply mx-auto font-spacemono flex pt-20 pb-20 max-w-5xl;
+  }
+  h1 {
+    @apply text-4xl lg:text-8xl sm:text-6xl font-bold mb-7 font-spacemono;
+  }
+}
