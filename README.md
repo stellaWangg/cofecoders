@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Cork Female Coders Community Website
+
+The Cork Female Coders community is dedicated to fostering an environment where women in the coding industry in Cork, Ireland, can come together to collaborate, learn, and empower one another. Our website serves as a central hub for community engagement, providing information on upcoming meet-ups, valuable IT-related talks, and resources to support women coders at all stages of their careers.
+
+Please wait for our incoming live version of the fully responsive website to connect and grow with us.
 
 ## Getting Started
 
@@ -16,21 +20,32 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Here's how our community platform looks on different devices:
 
-## Learn More
+### Desktop Version
 
-To learn more about Next.js, take a look at the following resources:
+![Desktop Screenshot](./public/cofe-homepage.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Mobile Version
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Mobile Screenshot](./public/mobile.png)
 
-## Deploy on Vercel
+## Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.js 14 App Router
+- React Native
+- Typescript
+- Tailwind
+- Formspree
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Get Involved
+
+We welcome all female coders looking to strengthen their skills and connect with like-minded individuals. If you are passionate about coding and wish to be part of an inspiring community, check out our [activities](https://stellawang.netlify.app/#activities) and [join us](https://stellawang.netlify.app/#contact) at our next event!
+
+## Support
+
+If you wish to support the Cork Female Coders community or have any inquiries, please contact us via [email](mailto:corkfemalecoders@gmail.com).
+
+Thank you for being a part of our journey towards a more inclusive and empowered future in tech!
