@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "next/link";
-import Header from "./Header";
 
 import { socialLinks } from "../data/socialLinks";
 
@@ -28,7 +26,10 @@ const Hero: React.FC = () => {
             </a>
           ))}
         </div>
-        <a className="bg-black font-poppins text-violet-100 px-6 py-3 rounded-full text-base md:text-lg font-semibold shadow-lg hover:bg-violet-100 hover:text-black transition-colors">
+        <a
+          href="#contact"
+          className="bg-black font-poppins text-violet-100 px-6 py-3 rounded-full text-base md:text-lg font-semibold shadow-lg hover:bg-violet-100 hover:text-black transition-colors"
+        >
           CONNECT NOW
         </a>
       </div>
