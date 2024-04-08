@@ -2,7 +2,7 @@
 
 The Cork Female Coders community is dedicated to fostering an environment where women in the coding industry in Cork, Ireland, can come together to collaborate, learn, and empower one another. Our website serves as a central hub for community engagement, providing information on upcoming meet-ups, valuable IT-related talks, and resources to support women coders at all stages of their careers.
 
-Please wait for our incoming live version of the fully responsive website to connect and grow with us.
+Please check our live version of the fully responsive website to connect and grow with us. -> [Live Site](https://cofecoders.netlify.app)
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ Here's how our community platform looks on different devices:
 
 ## Get Involved
 
-We welcome all female coders looking to strengthen their skills and connect with like-minded individuals. If you are passionate about coding and wish to be part of an inspiring community, check out our [activities]() and join us at our next event!
+We welcome all female coders looking to strengthen their skills and connect with like-minded individuals. If you are passionate about coding and wish to be part of an inspiring community, check out our [events](https://cofecoders.netlify.app/events) and join us at our next event!
 
 ## Support
 
