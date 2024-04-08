@@ -4,9 +4,10 @@ import React, { useState } from "react";
 import HamburgerButton from "./HamburgerButton";
 const navItems = [
   { link: "Home", path: "/" },
-  { link: "About", path: "#about" },
-  { link: "Activities", path: "#activities" },
-  { link: "Contact", path: "#contact" },
+  { link: "About", path: "/#about" },
+  { link: "Activities", path: "/#activities" },
+  { link: "Contact", path: "/#contact" },
+  { link: "Events", path: "/events" },
 ];
 
 const Navbar = () => {

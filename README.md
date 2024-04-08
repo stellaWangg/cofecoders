@@ -42,7 +42,7 @@ Here's how our community platform looks on different devices:
 
 ## Get Involved
 
-We welcome all female coders looking to strengthen their skills and connect with like-minded individuals. If you are passionate about coding and wish to be part of an inspiring community, check out our [activities](https://stellawang.netlify.app/#activities) and [join us](https://stellawang.netlify.app/#contact) at our next event!
+We welcome all female coders looking to strengthen their skills and connect with like-minded individuals. If you are passionate about coding and wish to be part of an inspiring community, check out our [activities]() and join us at our next event!
 
 ## Support
 

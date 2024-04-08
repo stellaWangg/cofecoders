@@ -30,7 +30,7 @@ export default function RootLayout({
     >
       <body className={inter.className}>
         <Header />
-        <main className="flex flex-col">{children}</main>
+        <main className="flex flex-col font-spacemono">{children}</main>
         <Footer />
       </body>
     </html>

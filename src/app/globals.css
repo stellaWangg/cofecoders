@@ -10,15 +10,12 @@
     padding: 0;
     margin: 0;
   }
-  p {
-    font-family: "Space Mono", "monospace";
-  }
 }
 @layer components {
   .container {
-    @apply mx-auto font-spacemono flex pt-20 pb-20 max-w-5xl;
+    @apply mx-auto flex pt-20 pb-20 max-w-5xl;
   }
   h1 {
-    @apply text-4xl lg:text-8xl sm:text-6xl font-bold mb-7 font-spacemono;
+    @apply text-4xl lg:text-8xl sm:text-6xl font-bold mb-7;
   }
 }
