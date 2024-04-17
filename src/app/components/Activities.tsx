@@ -54,7 +54,7 @@ const Activities = () => {
                 Networking
               </h3>
               <ul className="text-violet-100 list-disc">
-                <li>Chat with fellow fellow female coders.</li>
+                <li>Chat with fellow female coders.</li>
                 <li>
                   We share experiences from our workplaces and/or learning
                   process.

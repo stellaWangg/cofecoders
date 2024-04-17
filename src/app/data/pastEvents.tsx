@@ -10,6 +10,16 @@ export const pastEvents = [
     alt: "Coding Game",
   },
   {
+    title: "Valid Braces",
+    date: "12/03/2024",
+    tags: ["TS", "JS", "C#"],
+    img: "https://www.codewars.com/packs/assets/og-image.7f5134fb.png",
+    description:
+      "A responsive website serves as a central hub for community engagement, providing information on upcoming meet-ups, valuable IT-related talks, and resources to support women coders at all stages of their careers.",
+    url: "https://www.codewars.com/kata/5277c8a221e209d3f6000b56",
+    alt: "Code Wars",
+  },
+  {
     title: "Camping - Will you make it?",
     date: "26/03/2024",
     tags: ["JS", "Python", "C#", "Go"],
