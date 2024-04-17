@@ -24,13 +24,13 @@ const UpcomingEvents = () => {
             </div>
             <div className="flex-1 min-w-0 ms-4">
               <p className="text-sm font-semibold text-gray-900 truncate">
-                Code & Coffee Meetup 3
+                Code & Coffee Meetup 4
               </p>
               <p className="text-xs sm:text-sm text-gray-500 truncate">
-                📍 Western Gateway Building, UCC
+                📍 To Be Confirmed
               </p>
               <p className="text-xs sm:text-sm text-gray-500 truncate">
-                🗓️ 6pm-8pm, 09/04/2024
+                🗓️ 6pm-8pm, 23/04/2024
               </p>
             </div>
           </div>
@@ -49,7 +49,7 @@ const UpcomingEvents = () => {
                 IT talks
               </p>
               <p className="text-xs sm:text-sm text-gray-500 truncate">
-                📍 Western Gateway Building, UCC
+                📍 To Be Confirmed
               </p>
               <p className="text-xs sm:text-sm text-gray-500 truncate">
                 🗓️ To Be Confirmed
